@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import axios from 'axios'
 class Arraycount extends Component {
     state = {
-        id :103,
-        userId : 3,  
-        title : 'ksmsl',
-        body :'ddsd'
+        id :"",
+        userId : "",  
+        title : "",
+        body :""
     }
   componentDidMount(){
 
